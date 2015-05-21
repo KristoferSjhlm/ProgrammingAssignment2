@@ -1,3 +1,6 @@
+The Programming Assignment 2 is now updated. Check out the cachematrix.R file to see how it looks.
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
